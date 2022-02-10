@@ -1,18 +1,18 @@
 [
 {
-    "id":"1",
+    "id":1,
     "nombre":"Daniel",
     "apellido":"Chaires"
 }
 ,
 {
-    "id":"2",
+    "id":2,
     "nombre":"Guillermo",
     "apellido":"Salas"
 }
 ,
 {
-    "id":"3",
+    "id":3,
     "nombre":"David",
     "apellido":"Cervantes"
 }
